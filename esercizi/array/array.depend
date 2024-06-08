@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1634718451 source:c:\users\rocco\desktop\esercizi università\programmi c\array\lib.c
+	<stdlib.h>
+	<math.h>
+	"lib.h"
+
+1634729814 c:\users\rocco\desktop\esercizi università\programmi c\array\lib.h
+
+1634729812 source:c:\users\rocco\desktop\esercizi università\programmi c\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lib.h"
+
+1635237572 source:c:\users\rocco\onedrive\documenti\università\università parthenope\esercizi università\programmi c\array\lib.c
+	<stdlib.h>
+	<math.h>
+	"lib.h"
+
+1635237387 c:\users\rocco\onedrive\documenti\università\università parthenope\esercizi università\programmi c\array\lib.h
+
+1635777699 source:c:\users\rocco\onedrive\documenti\università\università parthenope\esercizi università\programmi c\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"lib.h"
+

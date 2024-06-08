@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636536196 source:c:\users\rocco\onedrive\documenti\università\università parthenope\esercizi università\programmi c\stringhe\lib.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lib.h"
+
+1636536202 c:\users\rocco\onedrive\documenti\università\università parthenope\esercizi università\programmi c\stringhe\lib.h
+
+1636536149 source:c:\users\rocco\onedrive\documenti\università\università parthenope\esercizi università\programmi c\stringhe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+

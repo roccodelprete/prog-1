@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634111414 source:c:\users\rocco\desktop\esercizi università\programmi c\sommatorie\lib.c
+	<stdlib.h>
+	<math.h>
+	"lib.h"
+
+1634111416 c:\users\rocco\desktop\esercizi università\programmi c\sommatorie\lib.h
+
+1634109615 source:c:\users\rocco\desktop\esercizi università\programmi c\sommatorie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
